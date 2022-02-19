@@ -1,0 +1,111 @@
+F_KWH_TF;"Paulinha:
+Consumo de Energia Ativa Total Faturada"
+F_KWH_PF;"Paulinha:
+Consumo Energia Ativa Ponta Faturado."
+F_KWH_FPF;"Paulinha:
+Consumo Energia Ativa Fora-Ponta Faturado."
+F_KVARH_RR;"Paulinha:
+Consumo de Energia Reativa Total
+Registrado."
+F_KVARH_RPR;"Paulinha:
+Consumo Energia Reativa Ponta Registrado"
+F_KVARH_RFPR;"Paulinha:
+Consumo Energia Reativa Fora-Ponta
+Registrado"
+F_KW_DTR;"Paulinha:
+Demanda Total Registrada."
+F_KW_DPR;"Paulinha:
+Demanda Ponta Registrada."
+F_KW_DFPR;"Paulinha:
+Demanda Fora-Ponta Registrada."
+F_KW_DTF;"Paulinha:
+Demanda Total Faturada."
+F_KW_DPF;"Paulinha:
+Demanda Ponta Faturada."
+F_KW_DFPF;"Paulinha:
+Demanda Fora-Ponta Faturada."
+F_KW_DPC;"Paulinha:
+Demanda Ponta Contratada."
+F_KW_DFPC;"Paulinha:
+Demanda Fora-Ponta Contratada."
+F_KW_DTU;"Paulinha:
+Demanda Total Ultrapassada"
+F_KW_DPU;"Paulinha:
+Demanda Ponta Ultrapassada"
+F_KW_DFPU;"Paulinha:
+Demanda Fora-Ponta Ultrapassada"
+F_MED_ATIVO;"Paulinha:
+Número do Medidor Ativo"
+F_MED_REATIVO;"Paulinha:
+Número do Medidor Reativo"
+F_FPR;"Paulinha:
+Fator de Potência Registrado."
+F_FPPR;"Paulinha:
+Fator de Potência Ponta Registrado."
+F_FPFPR;"Paulinha:
+Fator de Potência Fora-Ponta Registrado."
+F_FCR;"Paulinha:
+Fator de Carga Registrado.
+"
+F_FCPR;"Paulinha:
+Fator de Carga Ponta Registrado."
+F_FCFPR;"Administrador:
+Fator de Carga Fora-Ponta Registrado."
+F_CER;"Paulinha:
+Custo Médio de Energia Registrado."
+F_VAL_CON;"Paulinha:
+Valor Líquido Consumo."
+F_VAL_CON_P;"Paulinha:
+Valor Líquido Consumo Ponta."
+F_VAL_CON_FP;"Paulinha:
+Valor Líquido Consumo Fora-Ponta."
+F_VAL_UDT;"Paulinha:
+Valor Líquido Ultrapassada Demanda Total."
+F_VAL_UDP;"Paulinha:
+Valor Líquido Demanda Ultrapassagem
+Ponta.
+"
+F_VAL_UDFP;"Paulinha:
+Valor Líquido Demanda Ultrapassagem
+Fora-Ponta."
+F_VAL_ICMS;"Paulinha:
+Valor Líquido ICMS."
+F_VAL_TIP;"Paulinha:
+Valor Líquido Taxa Iluminação Pública."
+F_VAL_PIS;"Paulinha:
+Valor Líquido PIS."
+F_VAL_COFINS;"Paulinha:
+Valor Líquido COFINS."
+F_VAL_D;"Paulinha
+Valor Líquido Demanda."
+F_VAL_DP;"Paulinha:
+Valor Líquido Demanda Ponta."
+F_VAL_DFP;"Paulinha:
+Valor Líquido Demanda Fora-Ponta."
+F_VAL_EER;"Paulinha:
+Valor Líquido Gasto com Excesso de
+Energia Reativa."
+F_VAL_EERP;"Paulinha:
+Valor Líquido Gasto com Excesso de Energia Reativa Ponta."
+F_VAL_EERFP;"Paulinha:
+Valor Líquido Gasto com Excesso de Energia Reativa Fora-Ponta."
+F_VAL_EDR;"Paulinha:
+Valor Líquido Gasto com Excesso de Demanda Reativa."
+F_VAL_EDRP;"Paulinha:
+Valor Líquido Gasto com Excesso de Demanda Reativa Ponta."
+F_VAL_EDRFP;"Paulinha:
+Valor Líquido Gasto com Excesso de Demanda Reativa Fora-Ponta."
+F_VAL_TAXAS;"Paulinha:
+Valor Líquido Taxas."
+F_VAL_MULTA;"Paulinha:
+Valor da Multa."
+F_VAL_JUROS;"Paulinha:
+Valor do Juros Cobrados na Fatura."
+F_VAL_TP;"Paulinha:
+Valor Líquido Total."
+TENSAO;"Paulinha:
+Tipo de tensão da Unidade Consumidora."
+FPMEDIO;"Paulinha:
+Fator de Potência Médio."
+FCMEDIO;"Paulinha:
+Fator de Carga Médio."
