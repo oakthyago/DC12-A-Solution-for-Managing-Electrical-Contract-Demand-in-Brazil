@@ -1,0 +1,53 @@
+column,Legend
+F_KWH_TF,Consumo de Energia Ativa Total Faturada
+F_KWH_PF,Consumo Energia Ativa Ponta Faturado.
+F_KWH_FPF,Consumo Energia Ativa Fora-Ponta Faturado.
+F_KVARH_RR,Consumo de Energia Reativa Total
+F_KVARH_RPR,Consumo Energia Reativa Ponta Registrado
+F_KVARH_RFPR,Consumo Energia Reativa Fora-Ponta
+F_KW_DTR,Demanda Total Registrada.
+F_KW_DPR,Demanda Ponta Registrada.
+F_KW_DFPR,Demanda Fora-Ponta Registrada.
+F_KW_DTF,Demanda Total Faturada.
+F_KW_DPF,Demanda Ponta Faturada.
+F_KW_DFPF,Demanda Fora-Ponta Faturada.
+F_KW_DPC,Demanda Ponta Contratada.
+F_KW_DFPC,Demanda Fora-Ponta Contratada.
+F_KW_DTU,Demanda Total Ultrapassada
+F_KW_DPU,Demanda Ponta Ultrapassada
+F_KW_DFPU,Demanda Fora-Ponta Ultrapassada
+F_MED_ATIVO,Número do Medidor Ativo
+F_MED_REATIVO,Número do Medidor Reativo
+F_FPR,Fator de Potência Registrado.
+F_FPPR,Fator de Potência Ponta Registrado.
+F_FPFPR,Fator de Potência Fora-Ponta Registrado.
+F_FCR,Fator de Carga Registrado.
+F_FCPR,Fator de Carga Ponta Registrado.
+F_FCFPR,Fator de Carga Fora-Ponta Registrado.
+F_CER,Custo Médio de Energia Registrado.
+F_VAL_CON,Valor Líquido Consumo.
+F_VAL_CON_P,Valor Líquido Consumo Ponta.
+F_VAL_CON_FP,Valor Líquido Consumo Fora-Ponta.
+F_VAL_UDT,Valor Líquido Ultrapassada Demanda Total.
+F_VAL_UDP,Valor Líquido Demanda Ultrapassagem
+F_VAL_UDFP,Valor Líquido Demanda Ultrapassagem
+F_VAL_ICMS,Valor Líquido ICMS.
+F_VAL_TIP,Valor Líquido Taxa Iluminação Pública.
+F_VAL_PIS,Valor Líquido PIS.
+F_VAL_COFINS,Valor Líquido COFINS.
+F_VAL_D,Valor Líquido Demanda.
+F_VAL_DP,Valor Líquido Demanda Ponta.
+F_VAL_DFP,Valor Líquido Demanda Fora-Ponta.
+F_VAL_EER,Valor Líquido Gasto com Excesso de
+F_VAL_EERP,Valor Líquido Gasto com Excesso de Energia Reativa Ponta.
+F_VAL_EERFP,Valor Líquido Gasto com Excesso de Energia Reativa Fora-Ponta.
+F_VAL_EDR,Valor Líquido Gasto com Excesso de Demanda Reativa.
+F_VAL_EDRP,Valor Líquido Gasto com Excesso de Demanda Reativa Ponta.
+F_VAL_EDRFP,Valor Líquido Gasto com Excesso de Demanda Reativa Fora-Ponta.
+F_VAL_TAXAS,Valor Líquido Taxas.
+F_VAL_MULTA,Valor da Multa.
+F_VAL_JUROS,Valor do Juros Cobrados na Fatura.
+F_VAL_TP,Valor Líquido Total.
+TENSAO,Tipo de tensão da Unidade Consumidora.
+FPMEDIO,Fator de Potência Médio.
+FCMEDIO,Fator de Carga Médio.
