@@ -1,0 +1,53 @@
+column,Legend
+F_KWH_TF,Total Billed Active Energy Consumption
+F_KWH_PF,Active Energy Consumption Billed Point.
+F_KWH_FPF,Billed Off-peak Active Energy Consumption.
+F_KVARH_RR,Total Reactive Energy Consumption
+F_KVARH_RPR,Consumption Reactive Energy Registered End
+F_KVARH_RFPR,Off-peak Reactive Energy Consumption
+F_KW_DTR,Total Registered Demand.
+F_KW_DPR,Demand Point Registered.
+F_KW_DFPR,Registered Off-End Demand.
+F_KW_DTF,In Demand Total Invoice.
+F_KW_DPF,Demanda Ponta Invoice.
+F_KW_DFPF,In Demanda Fora-Ponta Invoice.
+F_KW_DPC,Demand Point Contracted.
+F_KW_DFPC,Contracted Off-End Demand.
+F_KW_DTU,Total Demand Exceeded
+F_KW_DPU,Peak Demand Exceeded
+F_KW_DFPU,Exceeded Off-End Demand
+F_MED_ATIVO,Active Meter Number
+F_MED_REATIVO,Reactive Meter Number
+F_FPR,Power Factor Registered.
+F_FPPR,Registered Tip Power Factor.
+F_FPFPR,Registered Off-Peak Power Factor.
+F_FCR,Registered Load Factor.
+F_FCPR,Registered Peak Load Factor.
+F_FCFPR,Registered Off-End Load Factor.
+F_CER,Average Recorded Energy Cost.
+F_VAL_CON,Consumption Net Value.
+F_VAL_CON_P,Net Value Peak Consumption.
+F_VAL_CON_FP,Net Value Off-peak Consumption.
+F_VAL_UDT,Net Value Exceeded Total Demand.
+F_VAL_UDP,Net Value Demand Exceeding
+F_VAL_UDFP,Net Value Demand Exceeding
+F_VAL_ICMS,ICMS Net Value.
+F_VAL_TIP,Net Value Public Lighting Fee.
+F_VAL_PIS,PIS Net Value.
+F_VAL_COFINS,COFINS Net Value.
+F_VAL_D,Liquid Value Demand.
+F_VAL_DP,Net Value Peak Demand.
+F_VAL_DFP,Net Value Off-Peer Demand.
+F_VAL_EER,Net Amount Spent with Excess
+F_VAL_EERP,Net Value Spent with Excess Reactive Power Point.
+F_VAL_EERFP,Net Amount Spent on Excess Off-Side Reactive Energy.
+F_VAL_EDR,Net Amount Spent on Excess Reactive Demand.
+F_VAL_EDRP,Net Amount Spent with Excess Reactive Demand Peak.
+F_VAL_EDRFP,Net Amount Spent on Excess Off-Side Reactive Demand.
+F_VAL_TAXAS,Net Value Fees.
+F_VAL_MULTA,Fine Amount.
+F_VAL_JUROS,Amount of Interest Charged on the Invoice.
+F_VAL_TP,Total Liquid Value.
+TENSAO,Voltage type of the Consumer Unit.
+FPMEDIO,Average Power Factor.
+FCMEDIO,Average Load Factor.
