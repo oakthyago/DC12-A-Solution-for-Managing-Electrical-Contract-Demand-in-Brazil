@@ -1,24 +1,39 @@
+**My undergraduate thesis (TCC)**
+
 # DC12
 
-DC12 is a solution for Electrical Contract Demand in Brazil.
+DC12 is a data-driven solution for managing Electrical Contract Demand in Brazil, with a focus on optimizing power usage and costs for industrial sectors.
 
 ## Introduction
 
-The solution presented here is a first step towards machine learning and data science. Although I didn't spend much time on visual presentation using seaborn graphics, I was able to organize and model the data.
+This project marks an initial step into the world of machine learning and data science. The data has been organized and modeled effectively to deliver actionable insights.
 
-As the philosopher said, "It's better to get it done late than even later."
 
-## Electrical Demand
 
-In Brazil, the industrial sector has to deal with a different billing fee for electrical demand. Understanding electrical consumption is straightforward: if you light a lamp with a power rating of 100W, it means it will consume 100W/h (watts per hour). So, if the lamp is on for 8 hours a day and 30 days a month, the consumption will be 8 * 30 * 100W = 24,000W or 24kW per month for that lamp.
+## Understanding Electrical Demand
 
-## Demand
+In Brazil, industrial sectors face a unique billing system based on electrical demand. While energy consumption is easy to grasp — for example, a 100W lamp consumes 100W/h (watts per hour) — demand is slightly more complex.
 
-Demand refers to the power required over a specific time period, typically the maximum demand within a month. For example, if you have 8 lamps rated at 100W/h each in your house, but you only light a maximum of 4 lamps simultaneously throughout the month, your demand for that month would be 400W. However, if for just one second during that month, you turn on all 8 lamps simultaneously, your demand for that month would be 800W.
+### Example:
+If you use a 100W lamp for 8 hours a day over 30 days, the total consumption is:
+- **100W × 8 hours/day × 30 days = 24,000W (24 kWh) per month**.
 
-## Annual Contract for Demand
+## What is Demand?
 
-Electricity distribution companies need to know how much energy your company will demand, which is a logistical challenge. To address this, a contract is made for a year. For example, if you have a 100kW demand contract:
-- If your demand is 100kW or less, you will pay for the 100kW demand for that month.
-- If your demand exceeds 100kW, you will pay a fee of 3 times (3x) for each unit of demand that exceeds the contracted amount.
-  * For example, if your demand consumption for a month is 120kW, you will pay for 100kW + (20 * 3)kW = 160kW.
+Demand refers to the peak power required over a specific period, usually the maximum in a given month. For instance, if you have 8 lamps rated at 100W each, but only ever turn on 4 lamps at once, your demand for the month is 400W. However, if at any moment you turn on all 8 lamps, even for just a second, your peak demand for that month would be 800W.
+
+## Annual Demand Contract
+
+Electricity providers in Brazil require companies to sign an annual demand contract, which predicts how much power your business will require. This is critical for ensuring supply reliability and comes with specific billing rules.
+
+For instance, if your company signs a 100kW demand contract:
+- If your actual demand is **100kW or lower**, you'll be charged for the contracted 100kW.
+- If your demand exceeds **100kW**, you'll incur a penalty. This is usually 3 times the rate for each kilowatt over the contracted amount.
+
+### Example:
+If your demand for a month reaches **120kW**, you'll pay for:
+- 100kW (contracted) + (20kW × 3) = 160kW total.
+
+---
+
+This repository presents a foundation for analyzing and managing electrical demand more efficiently, leveraging data science and automation for better decision-making.
